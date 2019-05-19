@@ -1,0 +1,12 @@
+/* 
+  File.strings
+  G-Mart
+
+  Created by Indrajit Chavda on 18/05/19.
+  Copyright © 2019 Indrajit Chavda. All rights reserved.
+*/
+
+
+"sign_in" = "Sign in";
+"invalid_email" = "Invalid email address.";
+"passowrd_must_be_more_than_three_chars" = "Your password must be more than 3 characters long.";
